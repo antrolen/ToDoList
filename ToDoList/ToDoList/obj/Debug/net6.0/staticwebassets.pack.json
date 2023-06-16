@@ -197,6 +197,38 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
       "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -243,6 +275,26 @@
     {
       "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\532c0d32-9ce4-4fbe-8eb8-8189a68911c8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\532c0d32-9ce4-4fbe-8eb8-8189a68911c8.jpg"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\80bb10a7-17d0-4891-a908-e3e5a40fac91.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80bb10a7-17d0-4891-a908-e3e5a40fac91.jpg"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\9192fbb8-7ded-476e-b7b9-05f624ae4d35.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9192fbb8-7ded-476e-b7b9-05f624ae4d35.jpg"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\9f330a85-8e7b-4f5c-aaf5-3588b9057e65.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9f330a85-8e7b-4f5c-aaf5-3588b9057e65.jpg"
+    },
+    {
+      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",

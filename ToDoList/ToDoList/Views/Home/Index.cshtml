@@ -1,8 +1,50 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<TaskList>
+@{
+    ViewData["Title"] = "Index";
 }
 
-<div class="text-center">
+@*<div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>*@
+
+<h1>Index</h1>
+
+@if (TempData.ContainsKey("status"))
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>Notification! </strong> @TempData["status"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="list-group">
+    @foreach (var item in @Model)
+    {
+        <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Id">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">@item.Title</h5>
+                <small>@item.Date</small>
+            </div>
+            <img src="@item.ImageUrl">
+            <p class="mb-1">@Html.Raw(@item.Description)</p>
+            <p>
+                @foreach (TaskСompletion taskСompletion in item?.TaskСompletions)
+                {
+                    <span class="btn btn-primary">@taskСompletion?.Сompletion?.Name</span>
+                }
+            </p>
+
+        </a>
+    }
 </div>
+
+
+@section Scripts{
+    <script>
+        setTimeout(() => {
+            console.log("Good");
+            $('.alert').hide();
+        }, 5000);
+    </script>
+}

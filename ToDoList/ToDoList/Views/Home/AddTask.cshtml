@@ -1,0 +1,82 @@
+﻿@model TaskList
+@{
+    ViewData["Title"] = "AddTask";
+}
+
+<h1>AddTask</h1>
+
+<form asp-action="Add" asp-controller="Home" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger">
+    </div>
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" placeholder="Recipient's title" aria-label="Recipient's title" aria-describedby="button-addon2">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryId" class="mb-1"></label>
+        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="mb-1">Сompletions: </label>
+        <select name="compls" id="compls" asp-items="ViewBag.Сompletions" multiple class="form-control">
+        </select>
+    </div>
+
+    @* <div class="form-group">
+    <label asp-for="ImageUrl"  class="mb-1"></label>
+    <input asp-for="ImageUrl" class="form-control" placeholder="Recipient's img" aria-label="Recipient's img" aria-describedby="button-addon2">
+    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>*@
+
+
+
+    <div class="form-group">
+        <label asp-for="Description" class="mb-1"></label>
+        <textarea asp-for="Description" rows="5" id="content" name="Description" class="form-control" placeholder="Recipient's title" aria-label="Recipient's title" aria-describedby="button-addon2"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="input-group mt-3">
+        <input name="ImageUrl" type="file" class="form-control" id="ImageUrl">
+        <label class="input-group-text" for="ImageUrl">Upload</label>
+    </div>
+
+
+    <button class="btn btn-primary mt-2 w-25">Add</button>
+</form>
+
+
+
+
+
+
+
+@section Scripts
+    {
+    <script src="https://<hostname.tld>/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/g9zqwp7tm78tvvxftg4se9v6vhuujkn4dh5xzh6kfr7kxcg6/tinymce/6/plugins.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+        });
+    </script>
+    <script src="https://cdn.tiny.cloud/1/g9zqwp7tm78tvvxftg4se9v6vhuujkn4dh5xzh6kfr7kxcg6/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+        });
+    </script>
+    <partial name="_ValidationScriptsPartial"></partial>
+
+
+}
+
