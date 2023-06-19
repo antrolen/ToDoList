@@ -11240,32 +11240,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\solar\\.nuget\\packages\\": {},
-    "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dnsuser\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
-      "packagesPath": "C:\\Users\\solar\\.nuget\\packages\\",
-      "outputPath": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\obj\\",
+      "projectPath": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "packagesPath": "C:\\Users\\dnsuser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\solar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dnsuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11336,7 +11338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,299 +1,451 @@
 {
   "Files": [
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css",
       "PackagePath": "staticwebassets\\ToDoList.bundle.scp.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen-sprite.png",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen-sprite.png",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen-sprite.png"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen-sprite@2x.png",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen-sprite@2x.png",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen-sprite@2x.png"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.css",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.jquery.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.jquery.js",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen.jquery.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.jquery.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen.jquery.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.min.css",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.min.css",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen.min.css"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.proto.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.proto.js",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen.proto.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.proto.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\chosen\\chosen.proto.min.js",
       "PackagePath": "staticwebassets\\lib\\chosen\\chosen.proto.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\532c0d32-9ce4-4fbe-8eb8-8189a68911c8.jpg",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\17151e2a-9c6a-4f28-b9d9-9529c2f02675.jpg",
+      "PackagePath": "staticwebassets\\uploads\\17151e2a-9c6a-4f28-b9d9-9529c2f02675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\532c0d32-9ce4-4fbe-8eb8-8189a68911c8.jpg",
       "PackagePath": "staticwebassets\\uploads\\532c0d32-9ce4-4fbe-8eb8-8189a68911c8.jpg"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\80bb10a7-17d0-4891-a908-e3e5a40fac91.jpg",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\80bb10a7-17d0-4891-a908-e3e5a40fac91.jpg",
       "PackagePath": "staticwebassets\\uploads\\80bb10a7-17d0-4891-a908-e3e5a40fac91.jpg"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\9192fbb8-7ded-476e-b7b9-05f624ae4d35.jpg",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\9192fbb8-7ded-476e-b7b9-05f624ae4d35.jpg",
       "PackagePath": "staticwebassets\\uploads\\9192fbb8-7ded-476e-b7b9-05f624ae4d35.jpg"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\9f330a85-8e7b-4f5c-aaf5-3588b9057e65.jpg",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\9f330a85-8e7b-4f5c-aaf5-3588b9057e65.jpg",
       "PackagePath": "staticwebassets\\uploads\\9f330a85-8e7b-4f5c-aaf5-3588b9057e65.jpg"
     },
     {
-      "Id": "G:\\project\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg",
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg",
       "PackagePath": "staticwebassets\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg"
     },
     {
