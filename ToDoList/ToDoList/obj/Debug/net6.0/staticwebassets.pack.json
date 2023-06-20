@@ -449,6 +449,10 @@
       "PackagePath": "staticwebassets\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg"
     },
     {
+      "Id": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\ed5dedb4-cdb1-4498-bca6-cfb09b50c281.JPG",
+      "PackagePath": "staticwebassets\\uploads\\ed5dedb4-cdb1-4498-bca6-cfb09b50c281.JPG"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

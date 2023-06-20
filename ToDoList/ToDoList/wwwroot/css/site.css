@@ -35,7 +35,7 @@ body {
   line-height: 1.5;
   color: #495057;
   text-align: left;
-  background-color: #6200EA;
+  background-color: #4600ea;
 }
 
 i {
@@ -44,7 +44,7 @@ i {
 
 .container{
   /* margin-top:100px; */
-  margin-top:50px;
+  /* margin-top:50px; */
 }
 
 .card {
@@ -194,4 +194,26 @@ i {
 
 .card-footer{
   background-color: #fff;
+}
+
+
+.list-group-image{
+  max-width: 40px;
+  max-height: 40px;
+  /* width: 40px;
+  height: 40px; */
+  margin-right: 10px;
+}
+
+.margin-left-10{
+  margin-left: 10px;
+}
+
+
+.detail-card-image{
+
+}
+
+.footer{
+  position: relative;
 }

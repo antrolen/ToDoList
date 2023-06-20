@@ -4,34 +4,79 @@
     ViewData["Title"] = "Detail";
 }
 
-<h1>Detail</h1>
+
+
+<div class="row d-flex justify-content-center container">
+    <div class="col-md-8">
+        <div class="card-hover-shadow-2x mb-3 card">
+
+            <div class="card">
+                <img src="@Model.ImageUrl" class="card-img-top detail-card-image" alt="...">
+                <div class="card-header">
+                    @{var temp = Model.Date.ToShortDateString();}
+                    @temp
+
+                    @foreach (var item in Model.TaskСompletions)
+                    {
+                        if(@item.Сompletion.Name == "To Do"){
+                            <div class="badge rounded-pill bg-success margin-left-10">@item.Сompletion.Name</div>
+                        }else if(@item.Сompletion.Name == "Not Done"){
+                            <div class="badge rounded-pill bg-danger margin-left-10">@item.Сompletion.Name</div>
+                        }if(@item.Сompletion.Name == "Done"){
+                            <div class="badge rounded-pill bg-secondary margin-left-10">@item.Сompletion.Name</div>
+                        }
+                    }
+
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Title
+                        <div class="badge rounded-pill bg-info margin-left-10">@Model.Category.Name</div>
+                    </h5>
+                    <p class="card-text">@Html.Raw(@Model.Description)</p>
+
+
+                    <a asp-action="Edit" asp-route-id="@Model?.Id">
+                        <button class="border-0 btn-transition btn btn-outline-secondary">
+                            <i class="fa fa-solid fa-pencil"></i></button></a>
+                    <a asp-action="Index">
+                        <button class="border-0 btn-transition btn btn-outline-dark">
+                            <i class="fa fa-solid fa-list"></i></button></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+@* <h1>Detail</h1>
 
 <div>
     <h4>TaskList</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Title)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Title)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Description)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Description)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Date)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Date)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.ImageUrl)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.ImageUrl)
         </dd>
         <dt class="col-sm-2">
@@ -55,4 +100,4 @@
 <div>
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
-</div>
+</div> *@

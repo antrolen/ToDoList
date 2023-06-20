@@ -6,25 +6,28 @@
     <div class="widget-content p-0">
         <div class="widget-content-wrapper">
             <div class="widget-content-left mr-2">
-                <div class="custom-checkbox custom-control">
+                <img class="list-group-image" src="@Model.ImageUrl" >
+                @* <div class="custom-checkbox custom-control">
                     <input class="custom-control-input" id="exampleCustomCheckbox12" type="checkbox">
-                    <img src="@Model.ImageUrl" style="width: 50px;">
-
                     <label class="custom-control-label" for="exampleCustomCheckbox12">&nbsp;</label>
-                </div>
+                </div> *@
             </div>
-            <div class="widget-content-left">
-                <p>@Model.Date</p>
-                <div class="widget-heading">@Model.Title <div class="badge badge-danger ml-2">@Model.Category.Name</div>
+            <div class="widget-content-left" style="max-width: 50%">
+                
+                <div class="widget-heading">@Model.Title 
+                    <div class="badge rounded-pill bg-info ml-2">@Model.Category.Name</div>
                 </div>
-                <div class="widget-subheading"><i>@Html.Raw(@Model.Description)</i></div>
+                <div class="widget-subheading">
+                    <i>@Html.Raw(@Model.Description)</i></div>
             </div>
             <div class="widget-content-right">
+                @{var temp = Model.Date.ToShortDateString();}
+                <div class="widget-heading">@temp</div>
                 <a asp-controller="Home" asp-action="Detail" asp-route-id="@Model.Id">
-                    <button class="border-0 btn-transition btn btn-outline-primary">
+                    <button class="border-0 btn-transition btn btn-outline-info">
                         <i class="fa fa-info"></i></button></a>
                 <a asp-action="Edit" asp-route-id="@Model?.Id">
-                    <button class="border-0 btn-transition btn btn-outline-primary">
+                    <button class="border-0 btn-transition btn btn-outline-secondary">
                         <i class="fa fa-solid fa-pencil"></i></button></a>
                 <button class="border-0 btn-transition btn btn-outline-success">
                     <i class="fa fa-check"></i></button>

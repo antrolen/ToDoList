@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b48+r2CpPmxdSQzEobo0SwdjL7ODGV7L7nRA0OnjKvE=",
+  "Hash": "z6lNDgPUdl4M/5vDmE3E7NTvDlWIAYg/XPuB3Gkk9IA=",
   "Source": "ToDoList",
   "BasePath": "_content/ToDoList",
   "Mode": "Default",
@@ -1936,6 +1936,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\c8c0fe24-fd75-458b-a0d6-ab56b4769d15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\uploads\\ed5dedb4-cdb1-4498-bca6-cfb09b50c281.JPG",
+      "SourceId": "ToDoList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dnsuser\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\",
+      "BasePath": "_content/ToDoList",
+      "RelativePath": "uploads/ed5dedb4-cdb1-4498-bca6-cfb09b50c281.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ed5dedb4-cdb1-4498-bca6-cfb09b50c281.JPG"
     }
   ]
 }
