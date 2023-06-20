@@ -3,25 +3,26 @@
     ViewData["Title"] = "AddTask";
 }
 
+<div class="card-hover-shadow-2x card p-2">
 <h1>AddTask</h1>
 
 <form asp-action="Add" asp-controller="Home" method="post" enctype="multipart/form-data">
     <div asp-validation-summary="All" class="text-danger">
     </div>
-    <div class="form-group">
-        <label asp-for="Title"></label>
-        <input asp-for="Title" class="form-control" placeholder="Recipient's title" aria-label="Recipient's title" aria-describedby="button-addon2">
+    <div class="form-group mt-2">
+        <label asp-for="Title" class="form-label h6"></label>
+        <input asp-for="Title" class="form-control" placeholder="ToDo Title" aria-label="Recipient's title" aria-describedby="button-addon2">
         <span asp-validation-for="Title" class="text-danger"></span>
     </div>
 
-    <div class="form-group">
-        <label asp-for="CategoryId" class="mb-1"></label>
+    <div class="form-group mt-2">
+        <label asp-for="CategoryId" class="form-label  h6">Category</label>
         <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
         <span asp-validation-for="CategoryId" class="text-danger"></span>
     </div>
 
-    <div class="form-group">
-        <label class="mb-1">Сompletions: </label>
+    <div class="form-group mt-2">
+        <label class="form-label h6">Сompletions </label>
         <select name="compls" id="compls" asp-items="ViewBag.Сompletions" multiple class="form-control">
         </select>
     </div>
@@ -34,9 +35,9 @@
 
 
 
-    <div class="form-group">
-        <label asp-for="Description" class="mb-1"></label>
-        <textarea asp-for="Description" rows="5" id="content" name="Description" class="form-control" placeholder="Recipient's title" aria-label="Recipient's title" aria-describedby="button-addon2"></textarea>
+    <div class="form-group mt-2">
+        <label asp-for="Description" class="form-label h6"></label>
+        <textarea asp-for="Description" rows="5" id="content" name="Description" class="form-control" placeholder="Description ..." aria-label="Recipient's title" aria-describedby="button-addon2"></textarea>
         <span asp-validation-for="Description" class="text-danger"></span>
     </div>
 
@@ -46,9 +47,9 @@
     </div>
 
 
-    <button class="btn btn-primary mt-2 w-25">Add</button>
+    <button class="btn btn-success mt-2 w-25">Add</button>
 </form>
-
+</div>
 
 
 

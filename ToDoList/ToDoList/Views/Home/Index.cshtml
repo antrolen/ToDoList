@@ -3,12 +3,7 @@
     ViewData["Title"] = "Index";
 }
 
-@*<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>*@
-
-<h1>Index</h1>
+@* <h1>Index</h1> *@
 
 @if (TempData.ContainsKey("status"))
 {
@@ -18,7 +13,7 @@
     </div>
 }
 
-<div class="list-group">
+@* <div class="list-group">
     @foreach (var item in @Model)
     {
         <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Id">
@@ -37,7 +32,42 @@
 
         </a>
     }
+</div> *@
+
+
+<div class="row d-flex justify-content-center container">
+    <div class="col-md-8">
+      <div class="card-hover-shadow-2x mb-3 card">
+        <div class="card-header-tab card-header">
+          <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i
+              class="fa fa-tasks"></i>&nbsp;Task Lists</div>
+          
+        </div>
+        <div class="scroll-area-sm">
+          <perfect-scrollbar class="ps-show-limits">
+            <div style="position: static;" class="ps ps--active-y">
+              <div class="ps-content">
+                <ul class=" list-group list-group-flush">
+
+                @foreach (var item in @Model)
+                {
+                    <partial name="_TaskItemPatrial" model="@item"></partial>
+                }
+                 
+                </ul>
+              </div>
+              
+            </div>
+          </perfect-scrollbar>
+        </div>
+
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddTask">
+        <button class="btn btn-success" style="margin: 10px;">Add Task</button></a>
+            </div>
+      </div>
+    </div>
 </div>
+
 
 
 @section Scripts{
