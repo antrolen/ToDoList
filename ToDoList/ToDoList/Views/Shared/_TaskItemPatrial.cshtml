@@ -16,6 +16,12 @@
                 
                 <div class="widget-heading">@Model.Title 
                     <div class="badge rounded-pill bg-info ml-2">@Model.Category.Name</div>
+
+                @foreach (TaskСompletion taskСompletion in Model?.TaskСompletions)
+                {
+                    <div class="badge rounded-pill bg-primary ml-2">@taskСompletion?.Сompletion?.Name
+                    </div>
+                }
                 </div>
                 <div class="widget-subheading">
                     <i>@Html.Raw(@Model.Description)</i></div>
@@ -23,16 +29,20 @@
             <div class="widget-content-right">
                 @{var temp = Model.Date.ToShortDateString();}
                 <div class="widget-heading">@temp</div>
-                <a asp-controller="Home" asp-action="Detail" asp-route-id="@Model.Id">
+                <div class="widget-heading row">
+                <a asp-controller="Home" asp-action="Detail" asp-route-id="@Model.Id" class="col">
                     <button class="border-0 btn-transition btn btn-outline-info">
                         <i class="fa fa-info"></i></button></a>
-                <a asp-action="Edit" asp-route-id="@Model?.Id">
+                <a asp-controller="Home" asp-action="Edit" asp-route-id="@Model?.Id" class="col">
                     <button class="border-0 btn-transition btn btn-outline-secondary">
                         <i class="fa fa-solid fa-pencil"></i></button></a>
-                <button class="border-0 btn-transition btn btn-outline-success">
-                    <i class="fa fa-check"></i></button>
+                @* <button class="border-0 btn-transition btn btn-outline-success">
+                    <i class="fa fa-check"></i></button> *@
+
+                    <form asp-controller="Home" asp-action="Delete" method="post" asp-route-id="@Model.Id" class="col">
                 <button class="border-0 btn-transition btn btn-outline-danger">
-                    <i class="fa fa-trash"></i></button>
+                    <i class="fa fa-trash"></i></button></form>
+                    </div>
             </div>
         </div>
     </div>
