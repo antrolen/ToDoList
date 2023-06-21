@@ -119,6 +119,17 @@ namespace ToDoList.Controllers
         }
 
 
+        [HttpPost] 
+        public async Task<IActionResult> Delete(int? id) { 
+            if (id != null) { 
+                TaskList taskList = new TaskList {Id=id.Value }; 
+                toDoListDbContext.Entry(taskList).State = EntityState.Deleted; 
+                await toDoListDbContext.SaveChangesAsync(); 
+                return RedirectToAction("Index"); 
+                } 
+                return NotFound(); 
+        }
+
         public IActionResult Privacy()
         {
             return View();
